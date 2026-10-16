@@ -1,1 +1,35 @@
-{"name":"FreeVideo — Free Video Tools","short_name":"FreeVideo","description":"Private browser-based video editor and converter.","start_url":"/","display":"standalone","background_color":"#07130c","theme_color":"#0b1b11","icons":[{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "FreeVideo — Free Video Tools",
+  "short_name": "FreeVideo",
+  "description": "Private browser-based video editor and converter. Free, without watermarks or paywalls.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07130c",
+  "theme_color": "#0b1b11",
+  "categories": [
+    "video",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
